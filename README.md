@@ -1,6 +1,6 @@
 ![I am MERN Stack Developer](https://media-exp1.licdn.com/dms/image/D4E16AQHX-6SlGCOdEQ/profile-displaybackgroundimage-shrink_350_1400/0/1669744416858?e=1675296000&v=beta&t=AYbZQ8QKn4QEHqLhN9ucEfl6Ls1PlDIWMvqhMVX8vrM)
 
-### Hi there 👋, Deluar Hossain
+### Hi 👋, Deluar Hossain
 #### I am MERN Stack Developer
 
 Hi, I'm Deluar Hossain. I am a MERN-stack developer with 2+ years of experience with modern technologies like React, Next js, Tailwind CSS, Node js, Express js, Firebase, Mysql, MongoDB, and so on.
